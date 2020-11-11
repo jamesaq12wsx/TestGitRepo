@@ -5,6 +5,8 @@ we have
 * 1 dog 		*
 * 			*
 * 1 cat 		*
+*			*
+* 1 pig 		*
 * 			*
 * 5 human		*
 * 			*
