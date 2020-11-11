@@ -1,11 +1,12 @@
-This is james's zooo
+This is Zoolander
 
 we have
-
-1 dog
-
-1 cat 
-
-5 human
-
-2 manager
+=========================
+* 1 dog 		*
+* 			*
+* 1 cat 		*
+* 			*
+* 5 human		*
+* 			*
+* 2 manager		*
+=========================
